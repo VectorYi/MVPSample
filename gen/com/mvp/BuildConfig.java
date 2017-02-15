@@ -2,5 +2,6 @@
 package com.mvp;
 
 public final class BuildConfig {
-    public final static boolean DEBUG = true;
+    public final static boolean DEBUG = false;
+    String crxc="crxc";
 }
